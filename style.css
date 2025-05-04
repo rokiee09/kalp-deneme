@@ -1,0 +1,26 @@
+body
+{ 
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: #000;
+}
+
+#alx {
+  max-width: 100%;
+  height: auto;
+}
+
+.kingoooo-text {
+  color: #ff0000;
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  margin-top: 5px;
+  text-align: center;
+  text-shadow: 0 0 20px rgba(255, 0, 0, 0.8);
+  font-weight: bold;
+}
